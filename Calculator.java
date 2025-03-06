@@ -5,8 +5,8 @@ public class Calculator {
     }
 
     public static void main(String[] args) {
-        int num1 = 60;
-        int num2 = 11;
+        int num1 = 8;
+        int num2 = 25;
         
         // Calling the method
         int result = addNumbers(num1, num2);
