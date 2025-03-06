@@ -5,7 +5,7 @@ public class Calculator {
     }
 
     public static void main(String[] args) {
-        int num1 = 10;
+        int num1 = 20;
         int num2 = 5;
         
         // Calling the method
